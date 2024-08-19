@@ -1,7 +1,7 @@
 # Non-unique Slug Field - CF Custom App
 This project was bootstrapped with [Create Contentful App](https://github.com/contentful/create-contentful-app).
 
-This custom field is used on Atlas in the navigation item content type. It is the same functionality as a slug field except it is not unique. 
+It is the same functionality as a slug field except it is not unique. Used on a site with multiple levels of navigation and where those level slugs are not unqiue.
 
 ## Available Scripts
 
