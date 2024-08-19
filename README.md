@@ -25,7 +25,7 @@ Your app is ready to be deployed!
 
 #### `npm run upload`
 
-When you are ready to upload a new version of the app to CF, run this command. You don't need to run a build first.
+When you are ready to upload a new version of the app to CF, run this command. After you run a build.
 
 Uploads the build folder to contentful and creates a bundle that is automatically activated.
 The command guides you through the deployment process and asks for all required arguments.
